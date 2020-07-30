@@ -102,6 +102,16 @@ module.exports = {
       }
     },
     plugins:{
-      "vuepress-plugin-auto-sidebar": {}
+      "vuepress-plugin-auto-sidebar": {},
+      '@vssue/vuepress-plugin-vssue': {
+        // 设置 `platform` 而不是 `api`
+        platform: 'github',
+        // 其他的 Vssue 配置
+        owner: 'qiannianchong25',
+        repo: 'MyBlog',
+        clientId: '4a60205c656381a1635e',
+        clientSecret: 'f16a0466994fab4e9123c44fdf5226a65e607868',
+        locale:'zh'
+      },
     }
   }
