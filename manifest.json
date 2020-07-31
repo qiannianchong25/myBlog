@@ -1,0 +1,18 @@
+{
+    "name": "chong25的博客",
+    "background_color": "white",
+    "short_name": "Chong",
+    "lang": "zh-CN",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/hero.jpg",
+        "sizes": "64x64",
+        "type": "image/jpg"
+      }
+    ]
+  }
+  

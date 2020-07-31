@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{414:function(n,t,e){"use strict";e.r(t);var a={components:{ParentLayout:e(410).a}},o=e(49),u=Object(o.a)(a,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("parent-layout")],1)}),[],!1,null,null,null);t.default=u.exports}}]);
