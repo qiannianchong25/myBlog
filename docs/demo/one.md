@@ -1,15 +1,12 @@
----
-title:第一篇
----
+
 # 内容随便了
+
 <ClientOnly>
 <Badge type="tip" text="危险" vertical="middle"/>
   <Badge type="error" text="危险error" vertical="middle"/>
   <Badge type="yellow" text="warn危险" vertical="middle"/>
 </ClientOnly>
-
 <<<@/docs/.vuepress/public/snippet.js#ab{1,3}
-
 ![Image from alias](~@public/hero.jpg)
 [关于](/about/)
 # 你们开心就好
@@ -41,7 +38,6 @@ export default {
   },
 };
 ```
-
 :::
 
 :tada: :100:
